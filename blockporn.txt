@@ -15,3 +15,5 @@
 |http://*.2kporn4u.*
 |http://*.south-plus.*
 |http://*.sukebei.*
+|http://*.tumblr.*
+

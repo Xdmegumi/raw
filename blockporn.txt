@@ -1,0 +1,16 @@
+[Porn ban]
+! Version: 201812011131
+! Title: Kill Porn
+! Chinese supplement for the EasyList filters
+! Last Modified: 01 Dec 2018 11:31 UTC
+!-----------------------General advert blocking filters-----------------------!
+|http://exhentai.org/*
+|http://toppornsites.com/
+|http://*.javhd.*
+|http://*.91porn.*
+|http://*.avgle.*
+|http://*.javfinder.*
+|http://*.pornhub.*
+|http://*.youporn.*
+|http://*.2kporn4u.*
+|http://*.south-plus.*

@@ -1,6 +1,7 @@
 #!/bin/sh
-yum -y install git
+apt-get update
 apt-get -y install git
+git clone https://github.com/flyzy2005/ss-fly
 wget -N --no-check-certificate "https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/cloudt.sh" && chmod +x cloudt.sh && bash cloudt.sh
 ss-fly/ss-fly.sh -ssr
 sed -ie 's/0.0.0.0/::/g' shadowsocks.json
